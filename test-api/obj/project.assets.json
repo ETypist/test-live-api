@@ -381,11 +381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\H_7\\Desktop\\TestDeploymentModule\\test-api\\test-api\\test-api.csproj",
+      "projectUniqueName": "C:\\Users\\H_7\\Desktop\\TestDeploymentModule\\test-live-api\\test-api\\test-api.csproj",
       "projectName": "test-api",
-      "projectPath": "C:\\Users\\H_7\\Desktop\\TestDeploymentModule\\test-api\\test-api\\test-api.csproj",
+      "projectPath": "C:\\Users\\H_7\\Desktop\\TestDeploymentModule\\test-live-api\\test-api\\test-api.csproj",
       "packagesPath": "C:\\Users\\H_7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\H_7\\Desktop\\TestDeploymentModule\\test-api\\test-api\\obj\\",
+      "outputPath": "C:\\Users\\H_7\\Desktop\\TestDeploymentModule\\test-live-api\\test-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\H_7\\AppData\\Roaming\\NuGet\\NuGet.Config",

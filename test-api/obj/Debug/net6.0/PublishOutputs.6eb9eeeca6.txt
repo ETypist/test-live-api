@@ -1,0 +1,12 @@
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\test-api.exe
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\test-api.dll
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\test-api.deps.json
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\test-api.runtimeconfig.json
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\test-api.pdb
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\Npgsql.dll
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\H_7\Desktop\TestDeploymentModule\test-live-api\test-api\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
